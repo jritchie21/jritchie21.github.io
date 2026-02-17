@@ -48,26 +48,25 @@ education:
     date_end: August 2026
     summary: |
       GPA: 3.86/4.0
-      
+
       Minored in Business Strategy. Team captain of BYU Aeronautics SAE Competition Team.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
+  - position: 
+    company_name: 
+    company_url: 
+    company_logo: 
+    date_start:
+    date_end:
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ 
-      citations in 3 years.
+      leading.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills: 
  - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python 
         description: ''
         percent: 95
         icon: code-bracket
@@ -75,7 +74,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Hiking
         description: ''
         percent: 80
         icon: person-simple-walk

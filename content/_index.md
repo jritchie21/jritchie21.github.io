@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Resume
-        url: uploads/resume.pdf
+        url: uploads/Joseph Ritchie Resume.pdf
       headings:
         about: ''
         education: ''
@@ -35,8 +35,8 @@ sections:
       subtitle: ''
       text: |-
         <div style="text-align: center; margin: 1.5rem 0;">
-          <a href="uploads/resume.pdf" style="display: inline-block; margin: 0 0.5rem; padding: 0.75rem 1.5rem; background-color: #4f46e5; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 500;">📄 Download Resume</a>
-          <a href="uploads/Joseph Ritchie Resume.pdf" style="display: inline-block; margin: 0 0.5rem; padding: 0.75rem 1.5rem; background-color: #64748b; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 500;">📋 Download CV</a>
+          <a href="uploads/Joseph Ritchie Resume.pdf" style="display: inline-block; margin: 0 0.5rem; padding: 0.75rem 1.5rem; background-color: #4f46e5; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 500;">📄 Download Resume</a>
+          <a href="uploads/Joseph_Ritchie_CV.pdf" style="display: inline-block; margin: 0 0.5rem; padding: 0.75rem 1.5rem; background-color: #64748b; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 500;">📋 Download CV</a>
         </div>
     design:
       columns: '1'
