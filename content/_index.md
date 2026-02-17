@@ -16,7 +16,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download Resume
         url: uploads/resume.pdf
       headings:
         about: ''
@@ -31,14 +31,25 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: ''
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        <div style="text-align: center; margin: 1.5rem 0;">
+          <a href="uploads/resume.pdf" style="display: inline-block; margin: 0 0.5rem; padding: 0.75rem 1.5rem; background-color: #4f46e5; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 500;">📄 Download Resume</a>
+          <a href="uploads/Joseph Ritchie Resume.pdf" style="display: inline-block; margin: 0 0.5rem; padding: 0.75rem 1.5rem; background-color: #64748b; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 500;">📋 Download CV</a>
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: [0, 0, 2rem, 0]
+  - block: markdown
+    content:
+      title: '📚 About Me'
+      subtitle: ''
+      text: |-
+        Welcome to my personal website! Here you can find information about my projects, experience, and professional work.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        Feel free to explore my projects, download my resume or CV, and reach out if you'd like to connect or collaborate.
     design:
       columns: '1'
   - block: collection
